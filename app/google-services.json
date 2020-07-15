@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015743710312",
+    "firebase_url": "https://navv-65257.firebaseio.com",
+    "project_id": "navv-65257",
+    "storage_bucket": "navv-65257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015743710312:android:4dc58f419dc033600ca7dd",
+        "android_client_info": {
+          "package_name": "com.example.firesbasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015743710312-lbefj3sqef7frfc45t5gti5u561v4jmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ex6BfAPUfwj0__rsQLNok8_NWNT-kX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015743710312-lbefj3sqef7frfc45t5gti5u561v4jmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
